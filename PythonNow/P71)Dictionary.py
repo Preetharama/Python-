@@ -1,0 +1,9 @@
+dic={"A":1,"B":2}
+print(dic)
+print(dic["A"])
+dic1=dict(name="preetha",age=20)
+print(dic1)
+dic1.update({2:10})
+ele=dic1.pop(2)
+print(ele)
+print(dic1)
